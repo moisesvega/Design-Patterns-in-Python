@@ -27,10 +27,3 @@ def Handle( x = Singleton ):
     except Singleton, s:
         single = s
     return single
-
-
-
-child = Child( 'Moy' )
-junior = Handle( Junior )
-print( junior.name() )
-
