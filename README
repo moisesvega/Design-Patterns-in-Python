@@ -1,0 +1,8 @@
+# Design Patterns in Python
+
+The choice of implementation language affects the use of design patterns. Naturally some languages are better applicable for different tasks than others. Each language has its own set of strengths and weaknesses. In this paper we implement some of the better known design patterns in Python, whose object model is quite different from that of conventional object-oriented languages. Thus we acquire some insight into the generality of the patterns in the context of Python.
+
+##Design Patterns
+
+-Singleton.
+
